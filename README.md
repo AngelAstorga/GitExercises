@@ -1,6 +1,6 @@
-# GitExercises
-Here you can find different kind of exercises to practice your git commands. 
+# GitExercises - Español
+Aqui podrás encontrar ejercicios para practicar tus comandos de git. 
 
-### languages:
-#### [Español-Es](README-es.md)
-#### [Deutsch-De](README-de.md)
+### Idiomas:
+#### [Español-En](https://github.com/AngelAstorga/GitExercises)
+#### [Deutsch-De](https://github.com/AngelAstorga/GitExercises/tree/main-de)
